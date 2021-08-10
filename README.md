@@ -2,15 +2,22 @@ package fr.krykox.lobby;
 
 import java.util.Arrays;
 
-public class Test {
-
-    public static void main(String[] args) {
-        final String[] name = {"KryKox" , "Lilian"};
-        final int age = 18;
-        final String studying = "Computer Developer";
-
-        System.out.println("My name is: " + Arrays.toString(name).substring(1, 15) + " I'm " + age + " years old" + " I study in " + studying + " !");
-
-
+public class Profile {
+        
+        private String name = "KryKox";
+        private int age = 19;
+        
+        public Profile(String name, int age) {
+            this.name = name;
+            this.age = age;
+        }
+    }
+    
+    public String getName() {
+        return name;
+    }
+    
+    public int getAge() {
+        return age;
     }
 }
