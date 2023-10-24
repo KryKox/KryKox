@@ -1,7 +1,6 @@
 # | Hi Developers ! 👋
 
-My name is **Lilian**, still **20 yo**, i have one principal hobbie is to develop some Minecraft Plugin, i can't explain why, but it's so funny ahah...
-also a C developers 😄
+Learning react and express
 
 # | What's my tools ? ⚙️
 
