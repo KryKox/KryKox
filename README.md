@@ -13,9 +13,7 @@ Learning react and nodejs using express
 # | Languages ! 💻
 
 <p align="left">
-   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50px">
-   <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" width="45px">
-   <img src="https://static-00.iconduck.com/assets.00/c-cpp-icon-459x512-qddxdsrt.png" width="45px">
+
 
 </p>
 
