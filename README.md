@@ -1,6 +1,6 @@
 # | Hi Developers ! 👋
 
-Learning react and express
+Learning react and nodejs using express
 
 # | What's my tools ? ⚙️
 
